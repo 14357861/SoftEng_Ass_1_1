@@ -1,7 +1,6 @@
 package Registration;
 
 import java.util.ArrayList;
-import java.util.Date;
 
 import org.joda.time.DateTime;
 
